@@ -1,9 +1,4 @@
 # Car-sharing
 
-Прокет по Мобилни Аплкации.
-
-Апликацијата за да се користи треба да се најавите или да креирате акаунт.
-Наменета е за лица кои што сакаат да изнајмат автомобил или да го споделат нивнито авотмобил.
-Може да се пребара возило по град и избирање на датум од до. Има прглед на каректиристик на возилот и локација прикажана на мапа.
-Најава за ново возило се врши со внесување на карактеристиките и избиррање на локација од мапата.
-Има извештаи за букирање по возило реализиран наем и вкупен износ.
+To use this app you have to  sign in or sign up.It is intended for people who want to rent a car or rent they're car
+You can search a vehicle by  city and picking a date.You can see the features of the vehicle  and the location shown on a map
